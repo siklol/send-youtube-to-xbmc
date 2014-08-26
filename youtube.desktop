@@ -1,0 +1,8 @@
+# Add to ~/.local/share/applications/youtube.desktop
+# Find nice looking youtube.png
+[Desktop Entry]
+Name=Youtube
+Exec=/home/user/bin/youtube.sh
+Icon=/home/user/bin/youtube.png
+Type=Application
+Categories=Entertainment
